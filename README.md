@@ -37,7 +37,7 @@
 
 ### 🧩 Languages:
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,html,java,php,cs"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,java,php,html,python,dart"/>
 </p>
 
 ### ⚙️ Frameworks & Libraries:

@@ -30,7 +30,7 @@
 ## 👩‍💻 About Me
 
 * 🏢 I'm a Backend .NET Developer
-* 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+* 👨‍💻 CS student, I'm constantly learning and exploring new technologies to improve my skills.
 * 💬 Ask me about my experience with C#, ASP.NET API, and EF Core, or anything related to web development.
 
 ---

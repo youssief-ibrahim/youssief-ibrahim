@@ -59,8 +59,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssief-ibrahim&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=youssief-ibrahim&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssief-ibrahim&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Langs" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=youssief-ibrahim&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssief-ibrahim&theme=highcontrast" alt="GitHub Streak" />
 </p>
 

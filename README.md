@@ -11,7 +11,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Contact with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssief-ibrahim-534157238/" target="_blank">
@@ -52,7 +52,7 @@
 
 ### 🛠️ Tools:
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,swagger,vscode,visualstudio"/>
 </p>
 
 ---

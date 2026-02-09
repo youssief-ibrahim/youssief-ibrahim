@@ -58,8 +58,6 @@
 ---
 ## 📊 GitHub Stats
 
-> Replace `youssief-ibrahim` below with your GitHub username to show live stats.
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssief-ibrahim&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=youssief-ibrahim&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" />
